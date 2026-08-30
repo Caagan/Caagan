@@ -1,6 +1,6 @@
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Tarik/emoji-dash-os/master/assets/images/handshake.png" width="35"> Merhaba, Ben <span style="color:#3B8BD4">Cagan</span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Tarik/emoji-dash-os/master/assets/images/waving-hand.png" width="35">
+### 🤝 Merhaba, Ben <span style="color:#3B8BD4">Cagan</span> 👋
 
 ```
 ╔══════════════════════════════════════════════╗
@@ -35,7 +35,7 @@
 </td>
 <td width="50%">
 
-![Cagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caagan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub followers](https://img.shields.io/github/followers/Caagan?style=for-the-badge&logo=github&logoColor=white)
 
 </td>
 </tr>
@@ -94,33 +94,8 @@
 
 <div align="center">
 
-<a href="https://github.com/Caagan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caagan&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/Ashutosh01010101/Ashutosh01010101">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Caagan&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 🏆 GitHub Rozetleri
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Caagan&theme=radical&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Activity Graph
-
-<div align="center">
-
-[![Cagan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Caagan&theme=redical&hide_border=true&area=true)](https://github.com/ashutosh01010101/github-readme-activity-graph)
+![GitHub followers](https://img.shields.io/github/followers/Caagan?style=for-the-badge&logo=github&label=Takipçi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Caagan-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
